@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2248e5"],{e147:function(e,t,n){"use strict";n.r(t);var a=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("recipes-template",{attrs:{"page-type":"edit"}})},c=[],p=n("2a72"),r={name:"Index",components:{RecipesTemplate:p["a"]},data:function(){return{}}},s=r,u=n("2877"),l=Object(u["a"])(s,a,c,!1,null,null,null);t["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d2248e5.a4246de8.js.map
